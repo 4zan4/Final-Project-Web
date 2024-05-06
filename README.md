@@ -2,7 +2,7 @@
 
 Proyek ini merupakan Frontend sistem administrasi berbasis web untuk mengelola sumber daya perpustakaan, termasuk buku, pengguna, catatan peminjaman, dan lainnya. Ini menyediakan antarmuka intuitif bagi pustakawan atau administrator untuk mengelola operasi perpustakaan dengan efisien.
 
-# 👷‍♂️Anggota Kelompok
+## 👷‍♂️Anggota Kelompok
 
 1. Azizi Egatri Mu’thi
 2. Beny Sigit Nugraha
@@ -11,6 +11,11 @@ Proyek ini merupakan Frontend sistem administrasi berbasis web untuk mengelola s
 5. Andreas Setyo Nugroho
 
 ## 👀Preview
+
+![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Image/Home.png?raw=true)
+![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Image/Addstudent.png?raw=true)
+![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Image/Login.png?raw=true)
+![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Image/Register.png?raw=true)
 
 ## 🚀Fitur-fitur
 
@@ -28,7 +33,7 @@ Proyek ini merupakan Frontend sistem administrasi berbasis web untuk mengelola s
 
 ## ⚙Instalasi
 
-1. Klona repositori dari GitHub: git clone 
+1. Klona repositori dari GitHub: git clone https://github.com/4zan4/Final-Project-Web.git
 2. Buka direktori proyek: cd library-admin-web
 3. Pasang dependensi: npm install
 4. Siapkan basis data dan konfigurasikan variabel lingkungan untuk koneksi basis data.
