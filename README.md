@@ -28,7 +28,7 @@ Proyek ini merupakan Frontend sistem administrasi berbasis web untuk mengelola s
 ## 🛠Teknologi Frontend yang Digunakan
 
 - HTML
-- CSS3 (dengan kerangka kerja seperti Bootstrap untuk desain responsif)
+- CSS (dengan kerangka kerja seperti Bootstrap untuk desain responsif)
 - JavaScript (dengan pustaka seperti jQuery untuk interaktivitas)
 
 ## ⚙Instalasi
