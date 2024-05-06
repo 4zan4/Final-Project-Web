@@ -35,7 +35,5 @@ Proyek ini merupakan Frontend sistem administrasi berbasis web untuk mengelola s
 
 1. Klona repositori dari GitHub: git clone https://github.com/4zan4/Final-Project-Web.git
 2. Buka direktori proyek: cd library-admin-web
-3. Pasang dependensi: npm install
-4. Siapkan basis data dan konfigurasikan variabel lingkungan untuk koneksi basis data.
-5. Mulai server: npm start
-6. Akses aplikasi di browser Anda di http://localhost:3000
+3. Jalankan index.html
+4. Atau akses aplikasi di browser Anda di http://localhost:3000
