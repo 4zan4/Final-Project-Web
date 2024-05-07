@@ -12,10 +12,11 @@ Proyek ini merupakan Frontend sistem administrasi berbasis web untuk mengelola s
 
 ## 👀Preview
 
-![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Image/Home.png?raw=true)
-![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Image/Addstudent.png?raw=true)
-![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Image/Login.png?raw=true)
-![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Image/Register.png?raw=true)
+![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Preview/Home.png?raw=true)
+![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Preview/Admin.png?raw=true)
+![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Preview/Addstudent.png?raw=true)
+![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Preview/Login.png?raw=true)
+![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Preview/Register.png?raw=true)
 
 ## 🚀Fitur-fitur
 
