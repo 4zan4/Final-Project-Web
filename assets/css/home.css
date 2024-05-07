@@ -13,6 +13,11 @@ body {
     flex-direction: column;
     background-size: cover;
 }
+.small-logo {
+    width: 50px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    margin-top: -30px;
+}
 
 .header-title{
     font-size: 4.2rem;
