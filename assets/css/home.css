@@ -1,0 +1,70 @@
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    min-height: 100vh;
+    background: linear-gradient(rgba(70, 68, 68, 0.432), rgba(0, 0, 0, 0.815)), url('/assets/Image/library-img.jpg') center/cover no-repeat; 
+    flex-direction: column;
+    background-size: cover;
+}
+
+.header-title{
+    font-size: 4.2rem;
+}
+.header-text{
+    margin-top: -1.8rem;
+    margin-bottom: 2.8rem;
+    opacity: 0.8;
+    max-width: 770px;
+}
+.navbar {
+    background-color: #0e2238; 
+    color: #fff; 
+    padding: 15px 0; 
+    justify-content: center;
+    align-items: center;
+}
+.navbar-toggler{
+    color: #fff;
+    border-color: #fff;
+}
+
+.fi {
+    color: #fff;
+}
+
+.navbar-brand {
+    color: #fff;
+    font-weight: 800;
+    position: relative;
+    font-size:30px;
+}
+
+.nav-item .nav-link{
+    color:#fff;
+}
+
+a.nav-link {
+    padding: .625rem 1.625rem;
+    color: #FFF;
+    display: block;
+    font-size: 15px;
+    white-space: nowrap;
+    border-left: 3px solid transparent;
+}
+
+
+.navbar-nav .nav-link:hover {
+    color: rgba(255, 255, 255, 0.568); /* Warna teks saat dihover */
+    transition: color 0.3s; /* Transisi warna saat hover */
+}
+.intros h2 {
+    font-weight: bold; /* Atur tebal teks */
+}
+
