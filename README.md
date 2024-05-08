@@ -12,11 +12,14 @@ Proyek ini merupakan Frontend sistem administrasi berbasis web untuk mengelola s
 
 ## 👀Preview
 
-![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Preview/Home.png?raw=true)
-![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Preview/Admin.png?raw=true)
-![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Preview/Addstudent.png?raw=true)
-![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Preview/Login.png?raw=true)
-![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Preview/Register.png?raw=true)
+![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Image/Preview/Home.png?raw=true)
+![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Image/Preview/Admin.png?raw=true)
+![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Image/Preview/Addbook.png?raw=true)
+![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Image/Preview/Addbook2.png?raw=true)
+![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Image/Preview/Addstudent.png?raw=true)
+![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Image/Preview/Returnbook.png?raw=true)
+![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Image/Preview/Login.png?raw=true)
+![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Image/Preview/Register.png?raw=true)
 
 ## 🚀Fitur-fitur
 
