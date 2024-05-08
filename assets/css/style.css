@@ -255,13 +255,16 @@ a.sidebar-link:hover {
     border-radius: 50%; 
   }
 
-  #bookData img {
+  #book img {
     width: 100px;
     height: 140px;
     object-fit: cover;
     border-radius: 8px; /* Jika ingin sudut gambar sedikit melengkung */
     border: 1px solid #ccc;
 }
+
+
+
 
 
  
