@@ -13,6 +13,7 @@ Proyek ini merupakan Frontend sistem administrasi berbasis web untuk mengelola s
 ## 👀Preview
 
 ![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Image/Preview/Home.png?raw=true)
+![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Image/Preview/Listbook.png?raw=true)
 ![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Image/Preview/Admin.png?raw=true)
 ![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Image/Preview/Addbook.png?raw=true)
 ![alert](https://github.com/4zan4/Final-Project-Web/blob/main/assets/Image/Preview/Addbook2.png?raw=true)
