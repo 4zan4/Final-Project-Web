@@ -67,8 +67,6 @@ body {
   height: auto !important; /* Maintain aspect ratio */
 }
 
-
-
 .sidebar-logo {
     margin: auto 0;
 }
@@ -255,11 +253,11 @@ a.sidebar-link:hover {
     border-radius: 50%; 
   }
 
-  #book img {
+  #bookData img {
     width: 100px;
     height: 140px;
     object-fit: cover;
-    border-radius: 8px; /* Jika ingin sudut gambar sedikit melengkung */
+    border-radius: 8px; 
     border: 1px solid #ccc;
 }
 

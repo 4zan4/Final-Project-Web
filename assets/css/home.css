@@ -16,8 +16,8 @@ body {
     background-size: cover;
 }
 .small-logo {
-    width: 50px; /* Adjust the width as needed */
-    height: auto; /* Maintain aspect ratio */
+    width: 50px; 
+    height: auto; 
     margin-top: -30px;
 }
 
@@ -59,12 +59,12 @@ a.nav-link {
 
 
 .navbar-nav .nav-link:hover  {
-    color: rgba(255, 255, 255, 0.568); /* Warna teks saat dihover */
-    transition: color 0.3s; /* Transisi warna saat hover */
+    color: rgba(255, 255, 255, 0.568); 
+    transition: color 0.3s; 
 }
 
 .intros h2 {
-    font-weight: bold; /* Atur tebal teks */
+    font-weight: bold; 
 }
 
 /* CSS untuk kartu buku */
@@ -102,12 +102,12 @@ a.nav-link {
   
   /* CSS untuk label NEW */
   .label-new {
-    background-color: #f44336; /* Warna latar merah */
-    color: #fff; /* Warna teks putih */
-    padding: 5px 10px; /* Padding */
-    border-radius: 10px; /* Sudut bulat */
-    font-size: 12px; /* Ukuran teks */
-    font-weight: bold; /* Ketebalan teks */
+    background-color: #f44336; 
+    color: #fff; 
+    padding: 5px 10px; 
+    border-radius: 10px; 
+    font-size: 12px; 
+    font-weight: bold; 
   }
   
   /* CSS untuk menyesuaikan ukuran label NEW */
@@ -120,38 +120,37 @@ a.nav-link {
   /* CSS untuk mengatur ukuran font pada card buku */
 .book .list-group-item .list-group-item-heading,
 .book .list-group-item .list-group-item-text  {
-  font-size: 16px; /* Ubah ukuran font menjadi 14px */
+  font-size: 16px; 
 }
 
 /* CSS untuk input grup */
 .input-group {
     width: 400px !important;
-    display: flex; /* Menggunakan flexbox untuk mengatur item secara horizontal */
+    display: flex; 
   }
   
   /* CSS untuk input pencarian */
   #searchInput {
     margin-top: 20px;
     margin-bottom: 20px;
-    border-radius: 5px; /* membuat sudut input menjadi lebih lembut */
-    border: 1px solid #ccc !important; /* memberi border pada input */
-    padding: 10px; /* menambah ruang di dalam input */
-    flex-grow: 1; /* Memungkinkan input untuk mengambil ruang yang tersisa */
+    border-radius: 5px; 
+    border: 1px solid #ccc !important; 
+    padding: 10px; 
+    flex-grow: 1; 
   }
   
   /* CSS untuk tombol pencarian */
   .input-group-append button {
     margin-top: 20px;
-    padding: 10px; /* menambah ruang di dalam input *
-    border-radius: 5px; /* membuat sudut tombol menjadi lebih lembut */
-    margin-left: -1px; /* Mencegah celah antara input dan tombol */
+    padding: 10px;
+    margin-left: -1px; 
   }
   
-  /* CSS untuk input pencarian saat fokus */
+  /* CSS untuk input pencarian*/
   #searchInput:focus {
-    outline: none; /* menghapus outline saat input fokus */
-    border-color: #007bff !important; /* mengubah warna border saat input fokus */
-    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5) !important; /* memberi efek shadow saat input fokus */
+    outline: none; 
+    border-color: #007bff !important; 
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5) !important; 
   }
   
 #book img {
